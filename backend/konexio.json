@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Konexio",
+    "slogan": "On est là mais des fois pas",
+    "description": "Jean a très vite été soutenue par les actions d’une équipe solide de bénévoles dévoués, issus de parcours et d’horizons différents : formateurs, développeurs, spécialistes du marketing digital, consultants, experts financiers, et bien plus.",
+    "image": "https://media-exp1.licdn.com/dms/image/C560BAQEKMmKrIPxneg/company-logo_200_200/0/1519899788258?e=1648080000&v=beta&t=sL1TUFfUfhDK3N_TPySGuchTpmvgkrkfOWhwFBoknhA"
+  },
+  {
+    "name": "Unicef",
+    "slogan": "Tout le monde au paintball !!",
+    "description": "L'UNICEF est chargé par l'Assemblée générale des Nations Unies de défendre les droits des enfants, d'aider à répondre à leurs besoins essentiels et de favoriser leur plein épanouissement. ...",
+    "image": "https://st3.depositphotos.com/29384342/50001/i/1600/depositphotos_500016818-stock-photo-flag-logo-united-nations-childrens.jpg"
+  },
+  {
+    "name": "Les restos du coeur",
+    "slogan": "Manger ça fait du bien",
+    "description": "Ils ont pour but « d'aider et d'apporter une assistance bénévole aux personnes démunies, notamment dans le domaine alimentaire par l'accès à des repas gratuits, et par la participation à leur insertion sociale et économique, ainsi qu'à toute action contre la pauvreté sous toutes ses formes ».",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bordeaux.fr%2Fo31090%2Frestaurants-du-coeur&psig=AOvVaw2DvwqCg1kHJa2-y2vW4NSe&ust=1640357124425000&source=images&cd=vfe&ved=2ahUKEwjey_XOlPr0AhXq8eAKHTceBgIQjRx6BAgAEAk"
+  }
+]
